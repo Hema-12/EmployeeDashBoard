@@ -1,0 +1,113 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "name": "Sampath",
+      "slug": "react-auth0-authentication-security",
+      "deptId": 1,
+      "nationality": "Indian",
+      "manager": "Supritha",
+      "phno": 9560323232,
+      "salary": 20000,
+      "doj": "28/05/2018"
+    },
+    {
+      "id": 2,
+      "name": "Sandeep",
+      "slug": "react-big-picture",
+      "deptId": 1,
+      "nationality": "Indian",
+      "manager": "Supritha",
+      "phno": 9560323232,
+      "salary": 20000,
+      "doj": "28/05/2018"
+    },
+    {
+      "id": 3,
+      "name": "Punnam",
+      "slug": "react-creating-reusable-components",
+      "deptId": 1,
+      "nationality": "Indian",
+      "manager": "Supritha",
+      "phno": 9560323232,
+      "salary": 20000,
+      "doj": "28/05/2018"
+    },
+    {
+      "id": 4,
+      "name": "Hemalatha",
+      "slug": "javascript-development-environment",
+      "deptId": 1,
+      "nationality": "Indian",
+      "manager": "Supritha",
+      "phno": 9560323232,
+      "salary": 20000,
+      "doj": "28/05/2018"
+    },
+    {
+      "id": 5,
+      "name": "Hemalatha",
+      "deptId": 1,
+      "nationality": "Indian",
+      "manager": "Sandeep",
+      "phno": "9090909090",
+      "salary": "20000.00",
+      "createdAt": 1559125944247,
+      "slug": "hemalatha"
+    },
+    {
+      "id": 6,
+      "name": "Chandana b l",
+      "deptId": 1,
+      "nationality": "Indian",
+      "manager": "Sandeep",
+      "phno": "9090909090",
+      "salary": "20000.00",
+      "createdAt": 1559132189854,
+      "slug": "chandana"
+    },
+    {
+      "id": 7,
+      "name": "Hemalatha",
+      "deptId": 4,
+      "nationality": "Indian",
+      "manager": "Sandeep",
+      "phno": "9090909090",
+      "salary": "20000.00",
+      "doj": "2019-05-15",
+      "createdAt": 1559133080076,
+      "slug": "hemalatha"
+    },
+    {
+      "id": 8,
+      "name": "Deepa",
+      "deptId": 3,
+      "nationality": "Indian",
+      "manager": "Kuldeep",
+      "phno": "9535162563",
+      "salary": "20000.00",
+      "doj": "2019-05-01",
+      "dob": "1994-05-29",
+      "createdAt": 1559133922684,
+      "slug": "deepa"
+    }
+  ],
+  "depts": [
+    {
+      "id": 1,
+      "name": "APPS"
+    },
+    {
+      "id": 2,
+      "name": "BPO"
+    },
+    {
+      "id": 3,
+      "name": "HR"
+    },
+    {
+      "id": 4,
+      "name": "Finance"
+    }
+  ]
+}
